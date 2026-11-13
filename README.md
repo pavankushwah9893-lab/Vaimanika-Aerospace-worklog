@@ -1,4 +1,4 @@
-# UAV Avionics & Hardware Research Worklog
+# Research Worklog
 **Organization:** Vaimanika Aerospace  
 **Modules:** STM32H7, Hardware Architecture, FPGA Integration, Telemetry, Flight Testing & Troubleshooting  
 
